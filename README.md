@@ -1,3 +1,36 @@
+# Moved to https://github.com/stevage/opentrees
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # opentrees.org
 
 This repository contains scripts to fetch trees datasets for various councils in Victoria and load it into a database. It also contains a simple static website with a map of all the trees. This requires TileMill running server-side.
